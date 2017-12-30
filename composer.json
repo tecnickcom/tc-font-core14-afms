@@ -1,0 +1,14 @@
+{
+  "name": "font/core",
+  "description": "Postscript Core 14 AFM font files",
+  "type": "fonts",
+  "keywords": [
+    "Postscript",
+    "AFM",
+    "font",
+    "Core14_AFMs.zip",
+    "core"
+  ],
+  "require": {},
+  "require-dev": {}
+}
