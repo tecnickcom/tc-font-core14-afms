@@ -2,6 +2,7 @@
   "name": "font/core",
   "description": "Postscript Core 14 AFM font files",
   "type": "fonts",
+  "license": "APAFML",
   "keywords": [
     "Postscript",
     "AFM",
